@@ -1,4 +1,4 @@
-[![MasterHead ](https://media.licdn.com/dms/image/D5612AQFqurU-rNa87Q/article-cover_image-shrink_720_1280/0/1716881156371?e=2147483647&v=beta&t=L-HHwkYHTVFQ_twDixwnlaUFRcaGpnnHnwc9cl2dxVA)](https://shivdeep2002.io)
+[![MasterHead ](https://media.licdn.com/dms/image/D5612AQFqurU-rNa87Q/article-cover_image-shrink_1280_700/0/1716881156371?e=2147483647&v=beta&t=L-HHwkYHTVFQ_twDixwnlaUFRcaGpnnHnwc9cl2dxVA)](https://shivdeep2002.io)
 
 <h1 align="center">Hi 👋, I'm Shivdeep Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

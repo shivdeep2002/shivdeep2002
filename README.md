@@ -23,14 +23,8 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react-native" width="40" height="40"/> 
-  </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/452092/react.svg" fill="#53C1DE" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 

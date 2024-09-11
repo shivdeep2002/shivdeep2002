@@ -7,7 +7,7 @@
 - 🌱 I’m currently working at Blockchain Innovation Pvt Ltd
 - *  web development & App Developer & Api Integration 
 
-- 📫 How to reach me *iamshivdeep@gmail.com & 8305692314*
+- 📫 How to reach me *iamshivdeep@gmail.com *
 
 - ⚡ Fun fact *I am Funny*
 

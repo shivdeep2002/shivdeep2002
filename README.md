@@ -1,19 +1,21 @@
 [![MasterHead ](https://media.licdn.com/dms/image/D5612AQFqurU-rNa87Q/article-cover_image-shrink_720_1280/0/1716881156371?e=2147483647&v=beta&t=L-HHwkYHTVFQ_twDixwnlaUFRcaGpnnHnwc9cl2dxVA)](https://shivdeep2002.io)
+
 <h1 align="center">Hi 👋, I'm Shivdeep Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="600" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<img align="right" alt="Coding" width="600" height="400" style="border: 2px solid white;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivdeep2002&label=Profile%20views&color=0e75b6&style=flat" alt="shivdeep2002" /> </p>
 
 - 🌱 I’m currently working at Blockchain Innovation Pvt Ltd
 - *  web development & App Developer & Api Integration 
 
-- 📫 How to reach me *iamshivdeep@gmail.com *
+- 📫 How to reach me *iamshivdeep@gmail.com*
 
 - ⚡ Fun fact *I am Funny*
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

@@ -1,9 +1,10 @@
+<div style='width: 1200px;'>
 <h1 align="center">Hi 👋, I'm Shivdeep Mishra</h1>
 <img align="right" alt="Coding" width="1400" height="700" style="border: 2px solid white; object-fit: cover;" src="https://media.licdn.com/dms/image/D5612AQFqurU-rNa87Q/article-cover_image-shrink_720_1280/0/1716881156371?e=2147483647&v=beta&t=L-HHwkYHTVFQ_twDixwnlaUFRcaGpnnHnwc9cl2dxVA">
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="600" height="400" style="border: 2px solid white;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="500" height="400" style="border: 2px solid white;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivdeep2002&label=Profile%20views&color=0e75b6&style=flat" alt="shivdeep2002" /> </p>
 
@@ -44,3 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivdeep2002&show_icons=true&locale=en" alt="shivdeep2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivdeep2002&" alt="shivdeep2002" /></p>
+  
+</div>

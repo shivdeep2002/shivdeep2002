@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="1400" height="700" style="border: 2px solid white;" src="https://media.licdn.com/dms/image/D5612AQFqurU-rNa87Q/article-cover_image-shrink_720_1280/0/1716881156371?e=2147483647&v=beta&t=L-HHwkYHTVFQ_twDixwnlaUFRcaGpnnHnwc9cl2dxVA">
+<img align="right" alt="Coding" width="1400" height="400" style="border: 2px solid white;" src="https://media.licdn.com/dms/image/D5612AQFqurU-rNa87Q/article-cover_image-shrink_720_1280/0/1716881156371?e=2147483647&v=beta&t=L-HHwkYHTVFQ_twDixwnlaUFRcaGpnnHnwc9cl2dxVA">
 
 
 <h1 align="center">Hi 👋, I'm Shivdeep Mishra</h1>

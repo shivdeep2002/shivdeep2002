@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivdeep Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatel2003&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatel2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivdeep2002&label=Profile%20views&color=0e75b6&style=flat" alt="shivdeep2002" /> </p>
 
 - 🌱 I’m currently working at Blockchain Innovation Pvt Ltd
 - *  web development & App Developer & Api Integration 
@@ -37,8 +37,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpatel2003&show_icons=true&locale=en&layout=compact" alt="amanpatel2003" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivdeep2002&show_icons=true&locale=en&layout=compact" alt="shivdeep2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanpatel2003&show_icons=true&locale=en" alt="amanpatel2003" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivdeep2002&show_icons=true&locale=en" alt="shivdeep2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatel2003&" alt="amanpatel2003" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivdeep2002&" alt="shivdeep2002" /></p>

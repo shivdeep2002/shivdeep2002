@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatel2003&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatel2003" /> </p>
 
-- 🌱 I’m currently learning *web development*
+- 🌱 I’m currently working at Blockchain Innovation Pvt Ltd *web development*
 
 - 📫 How to reach me *amanpatel22012003@gmail.com*
 
